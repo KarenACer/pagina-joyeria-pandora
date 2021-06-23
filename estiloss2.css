@@ -1,0 +1,90 @@
+body{
+background: url(imageness/fondo.jpg);
+background-size: 100%;
+font-family: georgia, times, serf;
+color:#333;
+font-size: 1.2rem;
+line-height: 1.6em;
+margin:0;
+font: bold 24px Goudy Old Style;
+}
+
+
+.tabla1 a{
+color: D1707D;
+text-decoration: none;
+
+}
+
+
+.container{
+width:85%;
+max-width:850px;
+margin:0 auto;
+}
+
+.header {
+background:#686464;
+padding: 0.2rem 0;
+}
+
+
+.header a{
+color: #DCAD28;
+text-decoration: none;
+}
+
+.logo-nav-container{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.navegation ul{
+margin:0;
+padding:0;
+list-style: none;
+}
+.navegation ul li{
+display:inline-block;
+} 
+
+.navegation ul li a{
+display:block;
+padding: 0.5rem 1rem;
+transition: all 0.4s linear;
+border-radius: 5px;
+}
+
+.navegation ul li a:hover {
+background: #E2DEE1;
+}
+
+.main {
+padding-top:20rem;
+}
+
+.footer {
+background: #686464;
+padding: 0.3rem 0;
+text-align: center;
+margin-top:6rem;
+color: #DCAD28;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
